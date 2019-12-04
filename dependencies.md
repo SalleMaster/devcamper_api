@@ -13,3 +13,11 @@ npm i mongoose
 # Console colors
 
 npm i colors
+
+# For Creating Slug
+
+npm i slugify
+
+# Geo Coder
+
+npm i node-geocoder
