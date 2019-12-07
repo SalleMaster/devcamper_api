@@ -21,3 +21,7 @@ npm i slugify
 # Geo Coder
 
 npm i node-geocoder
+
+# Uploading files
+
+npm i express-fileupload
