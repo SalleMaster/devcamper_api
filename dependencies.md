@@ -25,3 +25,7 @@ npm i node-geocoder
 # Uploading files
 
 npm i express-fileupload
+
+# User auth
+
+npm i jsonwebtoken bcryptjs cookie-parser
