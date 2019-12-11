@@ -29,3 +29,7 @@ npm i express-fileupload
 # User auth
 
 npm i jsonwebtoken bcryptjs cookie-parser
+
+# Reset password
+
+npm i nodemailer
