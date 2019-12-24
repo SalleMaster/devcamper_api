@@ -33,3 +33,7 @@ npm i jsonwebtoken bcryptjs cookie-parser
 # Reset password
 
 npm i nodemailer
+
+# Security
+
+npm i express-mongo-sanitize
