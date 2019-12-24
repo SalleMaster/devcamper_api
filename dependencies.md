@@ -37,3 +37,13 @@ npm i nodemailer
 # Security
 
 npm i express-mongo-sanitize
+
+npm i helmet
+
+npm i xss-clean
+
+npm i express-rate-limit hpp
+
+# CORS (if you want other apps to use your api)
+
+npm i cors
